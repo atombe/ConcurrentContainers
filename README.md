@@ -4,8 +4,8 @@
 ## More coming soon
 
 ## TODO
-Roll over list and stack impl to utilize atomic pointer wrapper
-Implement lock-free queue
+1. Roll over list and stack impl to utilize atomic pointer wrapper
+2. Implement lock-free queue
 
 ## License
 BSD
