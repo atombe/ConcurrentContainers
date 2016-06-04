@@ -33,8 +33,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 */
 
-#ifndef ATOMBE_ATOMIC_SHARED_PTR_H
-#define ATOMBE_ATOMIC_SHARED_PTR_H
+#ifndef ATOMBE_ATOMIC_SHARED_PTR_HPP
+#define ATOMBE_ATOMIC_SHARED_PTR_HPP
 
 #include <cstddef>
 #include <atomic>
@@ -126,4 +126,4 @@ template<
 }   // namespace util
 }   // namespace atombe
 
-#endif  // ATOMBE_ATOMIC_SHARED_PTR_H
+#endif  // ATOMBE_ATOMIC_SHARED_PTR_HPP
